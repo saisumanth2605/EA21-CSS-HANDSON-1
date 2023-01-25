@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: red;
+    font-style: italic;
+}
+ol {
+    color: brown;
+}
+#abc1 {
+    text-decoration: line-through;
+}
+#abc2 {
+    background-color: yellow;
+}
+#abc3 {
+    text-decoration: underline;
+    font-style: italic;
+}
+#ghi {
+    background-color: yellow;
+}
+h3 {
+    color: red;
+    font-style: italic;
+}
+ul {
+    color: brown;
+}
+.def1 {
+    letter-spacing: 3px;
+}
+p {
+    color: brown;
+}
+a {
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+    color: red;
+}
